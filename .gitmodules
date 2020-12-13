@@ -1,0 +1,3 @@
+[submodule "SynthDet/SynthDet"]
+	path = SynthDet/SynthDet
+	url = https://github.com/Unity-Technologies/SynthDet
